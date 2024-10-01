@@ -21,9 +21,8 @@ I'm a pharmacist who loves to code.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tommymakau&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-### 😂 Random Dev Meme
-<img src="https://i.imgflip.com/952wnk.gif" alt="Random Dev Meme"/>
+### 😂 Random Meme
+<img src="https://i.imgflip.com/952wnk.gif" alt="Random Meme"/>
 
 
 ---
