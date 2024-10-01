@@ -22,7 +22,9 @@ I'm a pharmacist who loves to code.
 ![](https://github-contributor-stats.vercel.app/api?username=Tommymakau&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='![](https://imgflip.com/gif/952wnk)'/>
+### 😂 Random Dev Meme
+<img src="https://i.imgflip.com/952wnk.gif" alt="Random Dev Meme"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tommymakau&icon=0&color=0)](https://visitcount.itsvg.in)
