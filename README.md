@@ -17,7 +17,7 @@ I'm a pharmacist who loves to code.
 
 ### 😂 Random Meme
 <img src=""https://i.imgflip.com/95wfbb.jpg" alt="Random Meme"/>
-<a href="https://imgflip.com/i/95wfbb"><img src="https://i.imgflip.com/95wfbb.jpg" title="made at imgflip.com"/></a>
+<img src="https://i.imgflip.com/95wfbb.jpg" title="made at imgflip.com"/>
 
 
 ---
