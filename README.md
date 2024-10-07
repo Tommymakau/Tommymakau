@@ -16,8 +16,7 @@ I'm a pharmacist who loves to code.
 ![](https://github-contributor-stats.vercel.app/api?username=Tommymakau&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Meme
-<img src="https://imgflip.com/i/95wfbb" alt="Random Meme"/>
-<a href="https://imgflip.com/i/95wfbb"><img src="https://i.imgflip.com/95wfbb.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<img src=""https://i.imgflip.com/95wfbb.jpg" alt="Random Meme"/>
 
 
 ---
