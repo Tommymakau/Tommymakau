@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a pharmacist who loves to code.
+Juggling a stable pharmacy career while still debugging why my code doesn’t compile at 3AM. Smart life choices all around. 🧠💥
 
 
 ## 🌐 Socials:
